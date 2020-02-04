@@ -1,42 +1,32 @@
 {
   "todos": [
     {
-      "title": "Eat",
-      "completed": true
-    },
-    {
-      "title": "Sleep",
-      "completed": false
-    },
-    {
-      "title": "Listen to Eric talk about how much he loves Fortnite",
-      "completed": false
-    },
-    {
+      "id": 4,
       "title": "Convince Eric there's more to life than Fortnite",
       "completed": false
     },
     {
+      "id": 5,
       "title": "Convince Eric that there are better games to play",
       "completed": false
     },
     {
+      "id": 6,
       "title": "Educate Eric that Overwatch is better than Fortnite",
       "completed": false
     },
     {
+      "id": 7,
       "title": "Lecture",
       "completed": false
     },
     {
-      "title": "Code",
-      "completed": true
-    },
-    {
+      "id": 9,
       "title": "NOT watch Eric play Fortnite",
       "completed": true
     },
     {
+      "id": 10,
       "title": "Ignore Eric's request to play Fortnite with him",
       "completed": true
     }
